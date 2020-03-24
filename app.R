@@ -1,9 +1,3 @@
-#library(rsconnect)
-#rsconnect::setAccountInfo(name='romainlesauvage',
-#                          token='365AA0EAB70E3C655733D32162A2C8FB',
-#                          secret='s81AV6DDhBwIazc8AiIKnnMMpx6QmOeL0b3n2lth')
-#rsconnect::deployApp("C:/Users/torna/Desktop/Esquisse/Esquisse")
-
 ####### LIBRARIES #########
 
 library(shiny)
